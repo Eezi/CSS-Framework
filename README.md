@@ -1,5 +1,4 @@
-CSS-Framework
+# What this is?
+Jouble is flexible and easy to use CSS framework. You can just add different class names to your html elements and gets fully responsive layouts and beautiful colors.
 
- What is this?
-
-Simple and flexible CSS framework for everyone.
+*** 
